@@ -1,3 +1,3 @@
 # demo
 
-New demo project
+New demo project for testing
